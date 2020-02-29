@@ -1,42 +1,27 @@
-- Enderman-Garferman---DONE
+
 - Phantom to VECTOR
+
 - Wither remodeled after Bill 
 - Wither sounds
-- Wither renamed to Bill Cipher--DONE
-- Wooden sword renamed and retexture to ol' reliable--DONE
 - Long term: Nether rebuilt into Shrek dimension
+
 - Long term: End rebuilt into garf dimension
-- Enderdragon renamed to Figure 14.19---DONE
 - Enderdragon remodeled after figure 14.19
+
 - New Iron golem sounds
-- Iron golem renamed to Norm---DONE
-- Sponge renamed to Spongerobert block--DONE
-- Spongegar texture slapped on sponge----DONE
-- Cocoa beans renamed to rice and beans---DONE
+
 - Cocoa beans item retextured after rice and beans
 - Cocoa beans plant retextured after MOES
+
 - New skeleton noises
-- Rename skeleton to Sans---DONE
+
 - Wither skeleton retexture (?)
 - Rename wither skeleton to something with sans (?)
-- Move Infinity Gauntlet texture from Golden sword to Diamond Sword
-- Retexture the gottem tools to be made out of gottems
-- Recolor shrast so it matches the shrek face slapped on. ( #958435 )
-- Rename zombie to like fortnite something--DONE
-- Rename drowned to Ninja or whatever he is--DONE
-- Rename dolphin to Whanos--DONE
-- Rename Chicken to Perry--DONE
-- Add perry sound
+
 - Rename/texture boats accordingly:===DONE
-- Birch Boat: Flex glue clear boat (already textured)
-- Oak Boat: Flex Tape Boat (already textured)
-- Spruce Boat: Flex Paste boat (already textured)---DO
 - Dark Oak Boat: Flex Tape Clear Boat (the one with a clear rectangular hole in bottom)
 - Jungle Boat: Flex Seal boat (the one with the screen door)
 - Acacia Boat: flex seal liquid boat: (The swamp boat with the giant fan on the back)
-- Add we'll meet again tune and texture disc
-- Add RIDE tune and texture disc
+
 - Add Disco tune and texture disc
-- Rename Lapis Luzili to Megamind Fragment===DONEVVVV
-- Rename Lapis Ore to Megamind ore
-- Rename block of lapis to block of megamind (retexture also)===DONE
+- Benson Ravager
