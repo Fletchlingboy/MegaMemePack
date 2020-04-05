@@ -1,28 +1,19 @@
 
-- Phantom to VECTOR---NEED SOUNDS
 
 - Wither remodeled after Bill 
 - Wither sounds
+
 - Long term: Nether rebuilt into Shrek dimension
+======ALREADY DONE?======
+fire
+lava
+magma block
+=========================
 
 - Long term: End rebuilt into garf dimension
 - Enderdragon remodeled after figure 14.19
 
-- New Iron golem sounds
-
-- Cocoa beans item retextured after rice and beans
-- Cocoa beans plant retextured after MOES
-
-- New skeleton noises
-
 - Wither skeleton retexture (?)
 - Rename wither skeleton to something with sans (?)
 
-- Rename/texture boats accordingly:===DONE
-- Dark Oak Boat: Flex Tape Clear Boat (the one with a clear rectangular hole in bottom)
-- Jungle Boat: Flex Seal boat (the one with the screen door)
-- Acacia Boat: flex seal liquid boat: (The swamp boat with the giant fan on the back)
-
-- Add Disco tune and texture disc
-
-- Benson Ravager
+- Benson Ravager==need to do sounds
