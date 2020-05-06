@@ -1,19 +1,133 @@
+===RAVAGER/BENSON
+Rename Ravager spawn egg to "Benson spawn egg"
 
+===BEE/BARRY BENSON
+Add Barry Bee sounds
+Rename Bee spawn egg to "Barry B Benson spawn egg"
 
-- Wither remodeled after Bill 
-- Wither sounds
+===Slime/BOB
 
-- Long term: Nether rebuilt into Shrek dimension
-======ALREADY DONE?======
-fire
-lava
-magma block
-=========================
+Rename Slime spawn egg to "benzoate ostylezene bicarbonate spawn egg"
+Retexture slime ball to be blue
+Rename slime ball to "bob ball" 
+Rename slime block to "bob block"
 
-- Long term: End rebuilt into garf dimension
-- Enderdragon remodeled after figure 14.19
+===CHICKEN/PERRY
+Make dooby dooby 1/4 or 2/4 for its walking sounds so its eligible 
+Rename egg to "Platypus's are one of the only mammals known to lay eggs"
 
-- Wither skeleton retexture (?)
-- Rename wither skeleton to something with sans (?)
+===VECTOR/PHANTOM
+Rename phantom spawn egg to "vector spawn egg"
+Rename phantom membrane to "vector's flightsuit fragment"
+Retexture phantom membrane to be orange and white
 
-- Benson Ravager==need to do sounds
+===SQUID/SQUIDWARD
+(I will get sounds later, but he needs sounds)
+Rename squid spawn egg to "Squidward spawn egg"
+rename ink sacs to "ink lemonade"
+
+===GARF MITE/ENDERMITE
+Rename spawn egg to "garf mite" or something more creative idk
+
+===MINECART
+Needs texture, make it white with just flames going in no specific direction so it still kind of works?
+
+===BOATS
+Import sounds
+
+===PARTICLES AND EFFECTS
+All ender particles need to be made orange or black to work with the garfs
+All nether particles (ex: shrava and the spores in the upcoming biomes) need to be made green or brown
+Slime particles need to be made blue, so it works for bob and bob blocks
+Rain texture (small blue gottems?)
+
+===MUSIC AND AMBIENCE
+=Music
+IDK we'll think of more
+=Ambience
+Import those rango cave sounds i pinned
+=Shrether ambience
+Shrek quotes, ill make them later
+
+===ITEMS AND BLOCKS
+Rename Elytra to "Vector's Wingsuit"
+Rename Melon to "Garfermelon"
+Rename cactus to "Rango cactus"
+Retexture cactuses to be the rango cactus png i sent
+-including potted ones
+Retexture nether star to be rango's sheriff badge
+
+=Weapons
+Rename diamond sword to "Infinity Gauntlet"
+Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seconds idk if you still wanted to)
+Remake iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive (dont forget to rename)
+Remake bow to be gun hand
+-Make arrows bullets?
+=Honey bottle
+Retexture honey bottle to be ray liotta private select (png is pinned)
+Replace sound with one from bee movie (pinned)
+
+==================================[LONG TERM] these will come last
+===LONG TERM RANGO VILLAGE
+Desert villages will be remade into the town of dirt from Rango
+
+===LONG TERM REGULAR SHOW ILLAGERS
+Pillager = Mordecai
+Vindicator = Rigby
+Evoker = Muscle man
+Vex = high five ghost
+Banner would be regular show poster
+Raid horn will be replaced with the regular show intro sound
+IDk we could do the glove or whatever or the eggscelent hat for their weapons or textures we'll see when we get there
+
+===LONG LONG TERM OCEAN OVERHAUL
+Fish will be retextured after will smith fish, mr. tmms, that stupid fish from little mermaid, distorted nemo, etc.
+Tropical fish will be retextured after background fish from spongebob
+Ocean ambience will be echoey, distant spongebob memes
+Music will be under da sea and also some spongebob production music
+
+===========================================================================================================
+
+===SHRETHER DIMENSION
+Rename netherack to be Nethershrak
+Rename magma block to be Shragma block
+Rename lava bucket to "Shrava bucket"
+Retexture and rename nether quartz to "shrether onion ore" or "onion ore"
+Rename quartz to "onion"
+Rename quartz blocks (dont retexture) to "onion block"/"onion stairs" etc long term
+Rename nether bricks to be shrether bricks
+
+===LONG TERM SHRETHER BIOMES
+=Crimson forest
+Make into a swamp biome, sort of an extremely thick swamp
+Music in biome will be "what are you doing in my swamp remix" (its pinned)
+
+===LONG TERM SHRETHER MOBS
+=Blaze
+Add Blaze sounds
+Rename Blaze to Shraze (shrek fire demon? Shrire demon?)
+
+=Magma cube
+(I dont have sounds yet)
+Texture Magma cube after Thelonius
+Rename Magma cube spawn egg to Thelonius
+Rename magma cream to be "shragma cream"
+
+=Wither Skeleton
+Add Puss n Boots sounds
+Rename skull to Puss N' Boots decapitated head
+Rename spawn egg to Puss N/ Boots spawn egg
+
+=Strider
+Retexture to be Duloc Mascot
+Add duloc mascot sounds
+Rename spawn egg to be Duloc mascot spawn egg
+
+=Piglin
+Add piglin sounds
+Rename spawn egg to Piglin spawn egg
+
+=Hoglin
+Texture hoglin after donkey
+Add hoglin sounds
+Rename spawn egg to "Donkey From shrek spawn egg" (because theres already a donkey spawn egg in game)
