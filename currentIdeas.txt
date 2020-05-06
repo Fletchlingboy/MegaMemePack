@@ -6,7 +6,6 @@ Add Barry Bee sounds
 Rename Bee spawn egg to "Barry B Benson spawn egg"
 
 ===Slime/BOB
-
 Rename Slime spawn egg to "benzoate ostylezene bicarbonate spawn egg"
 Retexture slime ball to be blue
 Rename slime ball to "bob ball" 
@@ -56,6 +55,11 @@ Rename cactus to "Rango cactus"
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 Retexture nether star to be rango's sheriff badge
+
+Remake beetroot plant into beanos plant
+beetroots (item) will be beanos
+Beetroot seeds = beanos seeds
+beetroot soup = Beanos soup (we can smack his face into the purple soup)
 
 =Weapons
 Rename diamond sword to "Infinity Gauntlet"
