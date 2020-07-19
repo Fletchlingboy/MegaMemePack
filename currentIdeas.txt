@@ -32,7 +32,7 @@ Rename spawn egg to "garf mite" or something more creative idk
 Needs texture, make it white with just flames going in no specific direction so it still kind of works?
 
 ===BOATS
-Import sounds
+Import sounds (pinned)
 
 ===PARTICLES AND EFFECTS
 All ender particles need to be made orange or black to work with the garfs
@@ -50,7 +50,7 @@ Shrek quotes, ill make them later
 
 ===ITEMS AND BLOCKS
 Rename Elytra to "Vector's Wingsuit"
-Rename Melon to "Garfermelon"
+Rename Melon to "Garfmelon"
 Rename cactus to "Rango cactus"
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
@@ -67,13 +67,15 @@ Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seco
 Remake iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive (dont forget to rename)
 Remake bow to be gun hand
 -Make arrows bullets?
+
 =Honey bottle
 Retexture honey bottle to be ray liotta private select (png is pinned)
 Replace sound with one from bee movie (pinned)
 
 ==================================[LONG TERM] these will come last
+
 ===LONG TERM RANGO VILLAGE
-Desert villages will be remade into the town of dirt from Rango
+Desert villages will be remade into the town of Dirt from Rango
 
 ===LONG TERM REGULAR SHOW ILLAGERS
 Pillager = Mordecai
@@ -88,7 +90,7 @@ IDk we could do the glove or whatever or the eggscelent hat for their weapons or
 Fish will be retextured after will smith fish, mr. tmms, that stupid fish from little mermaid, distorted nemo, etc.
 Tropical fish will be retextured after background fish from spongebob
 Ocean ambience will be echoey, distant spongebob memes
-Music will be under da sea and also some spongebob production music
+Music will be under da sea and also some spongebob production music, and crazy frog popcorn (pinned)
 
 ===========================================================================================================
 
