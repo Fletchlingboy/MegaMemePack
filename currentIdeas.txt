@@ -6,10 +6,11 @@ Add Barry Bee sounds
 Rename Bee spawn egg to "Barry B Benson spawn egg"
 
 ===Slime/BOB
-Rename Slime spawn egg to "benzoate ostylezene bicarbonate spawn egg"
+Rename Slime spawn egg to "Benzoate Ostylezene Bicarbonate spawn egg"
 Retexture slime ball to be blue
-Rename slime ball to "bob ball" 
-Rename slime block to "bob block"
+Rename slime ball to "BOB ball" 
+Rename slime block to "BOB block"
+Note: All caps for "BOB" is essential, it is an acronym.
 
 ===CHICKEN/PERRY
 Make dooby dooby 1/4 or 2/4 for its walking sounds so its eligible 
@@ -51,7 +52,7 @@ Shrek quotes, ill make them later
 
 ===ITEMS AND BLOCKS
 Rename Elytra to "Vector's Wingsuit"
-Rename Melon to "Garfmelon"
+Rename Melon to "Garmelon"
 Rename cactus to "Rango cactus"
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
@@ -59,7 +60,7 @@ Retexture nether star to be rango's sheriff badge
 
 Remake beetroot plant into beanos plant
 beetroots (item) will be beanos
-Beetroot seeds = beanos seeds
+Beetroot seeds = beanos seeds (small beanos pngs)
 beetroot soup = Beanos soup (we can smack his face into the purple soup)
 
 =Weapons
