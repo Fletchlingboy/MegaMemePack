@@ -72,6 +72,7 @@ Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seco
 Remake iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive (dont forget to rename)
 Remake bow to be gun hand
 -Make arrows bullets?
+add gun sounds (pinned)
 
 =Honey bottle
 Retexture honey bottle to be ray liotta private select (png is pinned)
