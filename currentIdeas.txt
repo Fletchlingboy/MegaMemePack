@@ -14,6 +14,7 @@ Rename slime block to "bob block"
 ===CHICKEN/PERRY
 Make dooby dooby 1/4 or 2/4 for its walking sounds so its eligible 
 Rename egg to "Platypus's are one of the only mammals known to lay eggs"
+Retexture egg to be the platypus egg from that one episode that wasnt actually a platypus egg
 
 ===VECTOR/PHANTOM
 Rename phantom spawn egg to "vector spawn egg"
