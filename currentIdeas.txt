@@ -111,6 +111,21 @@ Rename quartz to "onion"
 Rename quartz blocks (dont retexture) to "onion block"/"onion stairs" etc long term
 Rename nether bricks to be shrether bricks
 
+
+
+
+
+
+===UBER IMPORTANT===
+Netherite items?
+
+
+
+
+
+
+
+
 ===LONG TERM SHRETHER BIOMES
 =Crimson forest
 Make into a swamp biome, sort of an extremely thick swamp
