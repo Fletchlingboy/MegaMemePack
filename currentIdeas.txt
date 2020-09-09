@@ -5,6 +5,9 @@ Rename Ravager spawn egg to "Benson spawn egg"
 Add Barry Bee sounds
 Rename Bee spawn egg to "Barry B Benson spawn egg"
 
+===ENDERMAN/GARFERMAN
+Replace old "endermen stare" sound with the new one (pinned)
+
 ===Slime/BOB
 Rename Slime spawn egg to "Benzoate Ostylezene Bicarbonate spawn egg"
 Retexture slime ball to be blue
@@ -59,6 +62,8 @@ Retexture cactuses to be the rango cactus png i sent
 Retexture nether star to be rango's sheriff badge
 Smithing table sounds (pinned)
 
+Retexture and rename all netherite items to "shretherite"
+
 Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
 
 Remake beetroot plant into beanos plant
@@ -69,10 +74,10 @@ beetroot soup = Beanos soup (we can smack his face into the purple soup)
 =Weapons
 Rename diamond sword to "Infinity Gauntlet"
 Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seconds idk if you still wanted to)
-Remake iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive (dont forget to rename)
-Remake bow to be gun hand
--Make arrows bullets?
-add gun sounds (pinned)
+Rename iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive
+Rename bow to be gun
+Make arrows bullets
+add arrow impact(ground) sounds (pinned)
 
 =Honey bottle
 Retexture honey bottle to be ray liotta private select (png is pinned)
@@ -110,21 +115,6 @@ Retexture and rename nether quartz to "shrether onion ore" or "onion ore"
 Rename quartz to "onion"
 Rename quartz blocks (dont retexture) to "onion block"/"onion stairs" etc long term
 Rename nether bricks to be shrether bricks
-
-
-
-
-
-
-===UBER IMPORTANT===
-Netherite items?
-
-
-
-
-
-
-
 
 ===LONG TERM SHRETHER BIOMES
 =Crimson forest
