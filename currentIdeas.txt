@@ -1,56 +1,25 @@
-===RAVAGER/BENSON✓✓✓✓
-✓✓✓✓Rename Ravager spawn egg to "Benson spawn egg" ✓✓✓✓
-
 ===BEE/BARRY BENSON
 Add Barry Bee sounds
-✓✓✓✓Rename Bee spawn egg to "Barry B Benson spawn egg"✓✓✓✓
 
-<<<<<<< HEAD
-===Slime/BOB✓✓✓✓
-✓✓✓✓Rename Slime spawn egg to "Benzoate Ostylezene Bicarbonate spawn egg"✓✓✓✓
-✓✓✓✓Retexture slime ball to be blue
-✓✓✓✓Rename slime ball to "BOB ball" ✓✓✓✓
-✓✓✓✓Rename slime block to "BOB block"✓✓✓✓
-✓✓✓✓Note: All caps for "BOB" is essential, it is an acronym.✓✓✓✓
-=======
 ===ENDERMAN/GARFERMAN
 Replace old "endermen stare" sound with the new one (pinned)
 
-===Slime/BOB
-Rename Slime spawn egg to "Benzoate Ostylezene Bicarbonate spawn egg"
-Retexture slime ball to be blue
-Rename slime ball to "BOB ball" 
-Rename slime block to "BOB block"
-Note: All caps for "BOB" is essential, it is an acronym.
->>>>>>> 36896335e07ee2f165d1dd799998451c1b2ca3fb
-
 ===CHICKEN/PERRY
-✓✓✓✓Make dooby dooby ✓✓✓✓1/4✓✓✓✓ or 2/4 for its walking sounds so its eligible ✓✓✓✓
-✓✓✓✓Rename egg to "Platypus's are one of the only mammals known to lay eggs"✓✓✓✓
-
 Retexture egg to be the platypus egg from that one episode that wasnt 
 actually a platypus egg
 
 ===VECTOR/PHANTOM
-✓✓✓✓Rename phantom spawn egg to "vector spawn egg"✓✓✓✓
-✓✓✓✓Rename phantom membrane to "vector's flightsuit fragment"✓✓✓✓
 Retexture phantom membrane to be orange and white
 
 ===SQUID/SQUIDWARD
 (I will get sounds later, but he needs sounds)
-✓✓✓✓Rename squid spawn egg to "Squidward spawn egg"✓✓✓✓
-✓✓✓✓rename ink sacs to "ink lemonade"✓✓✓✓
-
-===GARF MITE/ENDERMITE✓✓✓✓
-✓✓✓✓Rename spawn egg to "garf mite" or something more creative idk✓✓✓✓
 
 ===POLAR BEAR/NORM OF THE NORTH
 Death sound will be "cold brew hits" video
 I have more ideas but norm of the north isnt a priority
 
 ===MINECART
-Needs texture, make it white with just flames going in no
-specific direction so it still kind of works?
+Needs texture, make it white with just flames going in no specific direction so it still kind of works?
 
 ===BOATS
 Import sounds (pinned)
@@ -70,50 +39,31 @@ Import those rango cave sounds i pinned
 Shrek quotes, ill make them later
 
 ===ITEMS AND BLOCKS
-Rename Elytra to "Vector's Wingsuit"✓✓✓✓
-Rename Melon to "Garmelon"✓✓✓✓
-Rename cactus to "Rango cactus"✓✓✓✓
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 Retexture nether star to be rango's sheriff badge
 Smithing table sounds (pinned)
 
-<<<<<<< HEAD
+
 Make the pigstep disc the shrek disc and swap out 
 the shrek disc with "living in the sunlight" (pinned)
-=======
-Retexture and rename all netherite items to "shretherite"
 
 Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
->>>>>>> 36896335e07ee2f165d1dd799998451c1b2ca3fb
+
 
 Remake beetroot plant into beanos plant
 beetroots (item) will be beanos
 Beetroot seeds = beanos seeds (small beanos pngs)
 beetroot soup = Beanos soup (we can smack his face into the purple soup)
-Rename Beanos's✓✓✓✓
 
 =Weapons
-<<<<<<< HEAD
-✓✓✓✓Rename diamond sword to "Infinity Gauntlet"
-✓✓✓✓Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seconds idk if you still wanted to)
-✓✓✓✓Remake iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive (dont forget to rename)
-✓✓✓✓Remake bow to be gun hand
 -Make arrows bullets?
 add gun sounds (pinned)
-=======
-Rename diamond sword to "Infinity Gauntlet"
-Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seconds idk if you still wanted to)
-Rename iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive
-Rename bow to be gun
-Make arrows bullets
-add arrow impact(ground) sounds (pinned)
->>>>>>> 36896335e07ee2f165d1dd799998451c1b2ca3fb
 
 =Honey bottle
 Retexture honey bottle to be ray liotta private select (png is pinned)
 Replace sound with one from bee movie (pinned)
-Named✓✓✓✓
+
 
 ==================================[LONG TERM] these will come last
 ==LONG TERM GARF DIMENSION MUSIC
@@ -139,14 +89,6 @@ Music will be under da sea and also some spongebob production music, and crazy f
 
 ===========================================================================================================
 
-===SHRETHER DIMENSION
-✓✓✓✓Rename netherack to be Nethershrak✓✓✓✓
-✓✓✓✓Rename magma block to be Shragma block✓✓✓✓
-✓✓✓✓Rename lava bucket to "Shrava bucket"✓✓✓✓
-✓✓✓✓Retexture and rename nether quartz to "shrether onion ore" or "onion ore"✓✓✓✓
-✓✓✓✓Rename quartz to "onion"✓✓✓✓
-✓✓✓✓Rename quartz blocks (dont retexture) to "onion block"/"onion stairs" etc long term
-✓✓✓✓Rename nether bricks to be shrether bricks
 
 ===LONG TERM SHRETHER BIOMES
 =Crimson forest
@@ -156,29 +98,27 @@ Music in biome will be "what are you doing in my swamp remix" (pinned)
 ===LONG TERM SHRETHER MOBS
 =Blaze
 Add Blaze sounds (pinned)
-Rename Blaze to Shraze (shrek fire demon? Shrire demon?)
 
 =Magma cube
 (I dont have sounds yet)
 Texture Magma cube after Thelonius
-Rename Magma cube spawn egg to Thelonius
-Rename magma cream to be "shragma cream"
 
 =Wither Skeleton
 Add Puss n Boots sounds (pinned)
-Rename skull to Puss N' Boots decapitated head
-Rename spawn egg to Puss N/ Boots spawn egg
 
 =Strider
 Retexture to be Duloc Mascot
 Add duloc mascot sounds (pinned)
-Rename spawn egg to be Duloc mascot spawn egg
 
 =Piglin
 Add piglin sounds (pinned)
-Rename spawn egg to Piglin spawn egg
+
+/zombie variant:
+Add zombie piglin sounds (working on it)
 
 =Hoglin
 Texture hoglin after donkey
 Add hoglin sounds (pinned)
-Rename spawn egg to "Donkey From shrek spawn egg" (because theres already a donkey spawn egg in game)
+
+/zombie variant
+Add zombie hoglin sounds (working on it)
