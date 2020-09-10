@@ -33,6 +33,10 @@ rename ink sacs to "ink lemonade"
 ===GARF MITE/ENDERMITE
 Rename spawn egg to "garf mite" or something more creative idk
 
+===POLAR BEAR/NORM OF THE NORTH
+Death sound will be "cold brew hits" video
+I have more ideas but norm of the north isnt a priority
+
 ===MINECART
 Needs texture, make it white with just flames going in no specific direction so it still kind of works?
 
