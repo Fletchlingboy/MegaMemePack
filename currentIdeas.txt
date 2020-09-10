@@ -1,6 +1,9 @@
 ===BEE/BARRY BENSON
 Add Barry Bee sounds
 
+===SLIME/BOB
+Add sounds (pinned)
+
 ===ENDERMAN/GARFERMAN
 Replace old "endermen stare" sound with the new one (pinned)
 
