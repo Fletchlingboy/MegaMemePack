@@ -5,12 +5,24 @@
 Add Barry Bee sounds
 ✓✓✓✓Rename Bee spawn egg to "Barry B Benson spawn egg"✓✓✓✓
 
+<<<<<<< HEAD
 ===Slime/BOB✓✓✓✓
 ✓✓✓✓Rename Slime spawn egg to "Benzoate Ostylezene Bicarbonate spawn egg"✓✓✓✓
 ✓✓✓✓Retexture slime ball to be blue
 ✓✓✓✓Rename slime ball to "BOB ball" ✓✓✓✓
 ✓✓✓✓Rename slime block to "BOB block"✓✓✓✓
 ✓✓✓✓Note: All caps for "BOB" is essential, it is an acronym.✓✓✓✓
+=======
+===ENDERMAN/GARFERMAN
+Replace old "endermen stare" sound with the new one (pinned)
+
+===Slime/BOB
+Rename Slime spawn egg to "Benzoate Ostylezene Bicarbonate spawn egg"
+Retexture slime ball to be blue
+Rename slime ball to "BOB ball" 
+Rename slime block to "BOB block"
+Note: All caps for "BOB" is essential, it is an acronym.
+>>>>>>> 36896335e07ee2f165d1dd799998451c1b2ca3fb
 
 ===CHICKEN/PERRY
 ✓✓✓✓Make dooby dooby ✓✓✓✓1/4✓✓✓✓ or 2/4 for its walking sounds so its eligible ✓✓✓✓
@@ -31,6 +43,10 @@ Retexture phantom membrane to be orange and white
 
 ===GARF MITE/ENDERMITE✓✓✓✓
 ✓✓✓✓Rename spawn egg to "garf mite" or something more creative idk✓✓✓✓
+
+===POLAR BEAR/NORM OF THE NORTH
+Death sound will be "cold brew hits" video
+I have more ideas but norm of the north isnt a priority
 
 ===MINECART
 Needs texture, make it white with just flames going in no
@@ -62,8 +78,14 @@ Retexture cactuses to be the rango cactus png i sent
 Retexture nether star to be rango's sheriff badge
 Smithing table sounds (pinned)
 
+<<<<<<< HEAD
 Make the pigstep disc the shrek disc and swap out 
 the shrek disc with "living in the sunlight" (pinned)
+=======
+Retexture and rename all netherite items to "shretherite"
+
+Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
+>>>>>>> 36896335e07ee2f165d1dd799998451c1b2ca3fb
 
 Remake beetroot plant into beanos plant
 beetroots (item) will be beanos
@@ -72,12 +94,21 @@ beetroot soup = Beanos soup (we can smack his face into the purple soup)
 Rename Beanos's✓✓✓✓
 
 =Weapons
+<<<<<<< HEAD
 ✓✓✓✓Rename diamond sword to "Infinity Gauntlet"
 ✓✓✓✓Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seconds idk if you still wanted to)
 ✓✓✓✓Remake iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive (dont forget to rename)
 ✓✓✓✓Remake bow to be gun hand
 -Make arrows bullets?
 add gun sounds (pinned)
+=======
+Rename diamond sword to "Infinity Gauntlet"
+Rename Stone sword to "shrek sword" (add ears? we discussed this for like 5 seconds idk if you still wanted to)
+Rename iron sword into the Hydro-dynamic spatula with Port/Starboard attachments and turbo drive
+Rename bow to be gun
+Make arrows bullets
+add arrow impact(ground) sounds (pinned)
+>>>>>>> 36896335e07ee2f165d1dd799998451c1b2ca3fb
 
 =Honey bottle
 Retexture honey bottle to be ray liotta private select (png is pinned)
@@ -116,21 +147,6 @@ Music will be under da sea and also some spongebob production music, and crazy f
 ✓✓✓✓Rename quartz to "onion"✓✓✓✓
 ✓✓✓✓Rename quartz blocks (dont retexture) to "onion block"/"onion stairs" etc long term
 ✓✓✓✓Rename nether bricks to be shrether bricks
-
-
-
-
-
-
-===UBER IMPORTANT===
-Netherite items?
-
-
-
-
-
-
-
 
 ===LONG TERM SHRETHER BIOMES
 =Crimson forest
