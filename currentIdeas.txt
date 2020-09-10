@@ -26,6 +26,7 @@ Needs texture, make it white with just flames going in no specific direction so 
 
 ===BOATS
 Import sounds (pinned)
+Update item icons
 
 ===PARTICLES AND EFFECTS
 All ender particles need to be made orange or black to work with the garfs
