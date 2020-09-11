@@ -1,15 +1,9 @@
 ===BEE/BARRY BENSON
 Add Barry Bee sounds
 
-===SLIME/BOB
-Add sounds (pinned)
-
-===ENDERMAN/GARFERMAN
-Replace old "endermen stare" sound with the new one (pinned)
 
 ===CHICKEN/PERRY
-Retexture egg to be the platypus egg from that one episode that wasnt 
-actually a platypus egg
+Retexture egg to be the platypus egg from that one episode that wasnt actually a platypus egg
 
 ===VECTOR/PHANTOM
 Retexture phantom membrane to be orange and white
@@ -59,15 +53,6 @@ Remake beetroot plant into beanos plant
 beetroots (item) will be beanos
 Beetroot seeds = beanos seeds (small beanos pngs)
 beetroot soup = Beanos soup (we can smack his face into the purple soup)
-
-=Weapons
--Make arrows bullets?
-add gun sounds (pinned)
-
-=Honey bottle
-Retexture honey bottle to be ray liotta private select (png is pinned)
-Replace sound with one from bee movie (pinned)
-
 
 ==================================[LONG TERM] these will come last
 ==LONG TERM GARF DIMENSION MUSIC
