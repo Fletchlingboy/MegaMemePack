@@ -1,7 +1,6 @@
 ===BEE/BARRY BENSON
 Add Barry Bee sounds
 
-
 ===CHICKEN/PERRY
 Retexture egg to be the platypus egg from that one episode that wasnt actually a platypus egg
 
@@ -17,10 +16,6 @@ I have more ideas but norm of the north isnt a priority
 
 ===MINECART
 Needs texture, make it white with just flames going in no specific direction so it still kind of works?
-
-===BOATS
-Import sounds (pinned)
-
 
 ===PARTICLES AND EFFECTS
 All ender particles need to be made orange or black to work with the garfs
@@ -98,4 +93,3 @@ Add duloc mascot sounds (pinned)
 Texture hoglin after donkey
 
 /zombie variant
-Add zombie hoglin sounds (working on it)
