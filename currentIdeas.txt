@@ -14,9 +14,6 @@ Retexture phantom membrane to be orange and white
 Death sound will be "cold brew hits" video
 I have more ideas but norm of the north isnt a priority
 
-===MINECART
-Needs texture, make it white with just flames going in no specific direction so it still kind of works?
-
 ===PARTICLES AND EFFECTS
 All ender particles need to be made orange or black to work with the garfs
 All nether particles (ex: shrava and the spores in the upcoming biomes) need to be made green or brown
