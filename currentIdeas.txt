@@ -42,10 +42,6 @@ Retexture cactuses to be the rango cactus png i sent
 Retexture nether star to be rango's sheriff badge
 Smithing table sounds (pinned)
 
-
-Make the pigstep disc the shrek disc and swap out 
-the shrek disc with "living in the sunlight" (pinned)
-
 Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
 
 
@@ -85,29 +81,21 @@ Make into a swamp biome, sort of an extremely thick swamp
 Music in biome will be "what are you doing in my swamp remix" (pinned)
 
 ===LONG TERM SHRETHER MOBS
-=Blaze
-Add Blaze sounds (pinned)
 
 =Magma cube
 (I dont have sounds yet)
-Texture Magma cube after Thelonius
+Texture Magma cube to shragma cube
 
-=Wither Skeleton
-Add Puss n Boots sounds (pinned)
+=Piglin brute
+(I dont have sounds yet)
+Texture piglin brute after Thelonius
 
 =Strider
 Retexture to be Duloc Mascot
 Add duloc mascot sounds (pinned)
 
-=Piglin
-Add piglin sounds (pinned)
-
-/zombie variant:
-Add zombie piglin sounds (working on it)
-
 =Hoglin
 Texture hoglin after donkey
-Add hoglin sounds (pinned)
 
 /zombie variant
 Add zombie hoglin sounds (working on it)
