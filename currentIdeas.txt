@@ -74,7 +74,6 @@ Texture piglin brute after Thelonius
 
 =Strider
 Retexture to be Duloc Mascot
-Add duloc mascot sounds (pinned)
 
 =Hoglin
 Texture hoglin after donkey
