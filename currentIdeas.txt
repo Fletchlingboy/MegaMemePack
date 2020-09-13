@@ -22,6 +22,8 @@ Retexture nether star to be rango's sheriff badge
 
 retexture gilded blackstone and nether gold ore to have gottems, like the other golden items
 retexture netherite items
+retexture spectral arrow to be silver bullet
+retexture tipped arrow base to be a bullet, minecrafts code should do the rest
 
 Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
 ==================================[LONG TERM] these will come last
