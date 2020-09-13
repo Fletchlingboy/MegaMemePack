@@ -33,9 +33,6 @@ Beetroot seeds = beanos seeds (small beanos pngs)
 beetroot soup = Beanos soup (we can smack his face into the purple soup)
 
 ==================================[LONG TERM] these will come last
-==LONG TERM GARF DIMENSION MUSIC
-Im gonna redo the music and send it to you, it will be a 10-15 minute track consisting of multiple titles so the music isnt so empty
-
 ===LONG TERM RANGO VILLAGE
 Desert villages will be remade into the town of Dirt from Rango
 
@@ -71,11 +68,3 @@ Texture Magma cube to shragma cube
 =Piglin brute
 (I dont have sounds yet)
 Texture piglin brute after Thelonius
-
-=Strider
-Retexture to be Duloc Mascot
-
-=Hoglin
-Texture hoglin after donkey
-
-/zombie variant
