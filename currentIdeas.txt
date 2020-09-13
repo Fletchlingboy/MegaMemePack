@@ -24,14 +24,9 @@ Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 Retexture nether star to be rango's sheriff badge
 
+retexture gilded blackstone and nether gold ore to have gottems, like the other golden items
+
 Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
-
-
-Remake beetroot plant into beanos plant
-beetroots (item) will be beanos
-Beetroot seeds = beanos seeds (small beanos pngs)
-beetroot soup = Beanos soup (we can smack his face into the purple soup)
-
 ==================================[LONG TERM] these will come last
 ===LONG TERM RANGO VILLAGE
 Desert villages will be remade into the town of Dirt from Rango
