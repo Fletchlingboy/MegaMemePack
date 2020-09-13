@@ -6,9 +6,7 @@ Death sound will be "cold brew hits" video
 I have more ideas but norm of the north isnt a priority
 
 ===PARTICLES AND EFFECTS
-All ender particles need to be made orange or black to work with the garfs
 All nether particles (ex: shrava and the spores in the upcoming biomes) need to be made green or brown
-Slime particles need to be made blue, so it works for bob and bob blocks
 Rain texture (small blue gottems?)
 
 ===MUSIC AND AMBIENCE
@@ -23,6 +21,7 @@ Retexture cactuses to be the rango cactus png i sent
 Retexture nether star to be rango's sheriff badge
 
 retexture gilded blackstone and nether gold ore to have gottems, like the other golden items
+retexture netherite items
 
 Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
 ==================================[LONG TERM] these will come last
