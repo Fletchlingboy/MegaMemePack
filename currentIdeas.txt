@@ -2,6 +2,20 @@
 Death sound will be "cold brew hits" video
 I have more ideas but norm of the north isnt a priority
 
+===DOLPHIN/WHANOS
+-Sounds
+A retexture with more accurate colors based off of the original meme image
+
+===ZOMBIE/FORTNITE
+-Sounds
+
+===DROWNED/NINJA
+-Sounds
+
+===GUARDIAN/PLANKTON
+-Sounds
+-Retexture
+
 ===PARTICLES AND EFFECTS
 All nether particles (ex: shrava and the spores in the upcoming biomes) need to be made green or brown
 Rain texture (small blue gottems?)
@@ -9,21 +23,33 @@ Rain texture (small blue gottems?)
 ===MUSIC AND AMBIENCE
 =Music
 We'll think of more
+(I have menu music ideas)
+
+=Discs/jukebox
+Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
+remember to retexture both discs, images are pinnged
+
 =Shrether ambience
 Shrek quotes, ill make them later
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
-Retexture nether star to be rango's sheriff badge
+
+Retexture bookshelf
+(Ill take care of this but i need a few more meme book ideas)
 
 retexture gilded blackstone and nether gold ore to have gottems, like the other golden items
 retexture netherite items
 retexture spectral arrow to be silver bullet
 retexture tipped arrow base to be a bullet, minecrafts code should do the rest
 
-Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
+More meme crops, (mtn dew, dorito plants?)
+
+More meme food (spuddies from over the hedge, krabby patties?)
+
 ==================================[LONG TERM] these will come last
+
 ===LONG TERM RANGO VILLAGE
 Desert villages will be remade into the town of Dirt from Rango
 
