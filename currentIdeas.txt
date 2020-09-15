@@ -25,19 +25,12 @@ Rain texture (small blue gottems?)
 We'll think of more
 (I have menu music ideas)
 
-=Discs/jukebox
-Make the pigstep disc the shrek disc and swap out the shrek disc with "living in the sunlight" (pinned)
-remember to retexture both discs, images are pinnged
-
 =Shrether ambience
 Shrek quotes, ill make them later
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
-
-Retexture bookshelf
-(Ill take care of this but i need a few more meme book ideas)
 
 retexture gilded blackstone and nether gold ore to have gottems, like the other golden items
 retexture netherite items
