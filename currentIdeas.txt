@@ -17,16 +17,12 @@ A retexture with more accurate colors based off of the original meme image
 -Retexture
 
 ===PARTICLES AND EFFECTS
-All nether particles (ex: shrava and the spores in the upcoming biomes) need to be made green or brown
 Rain texture (small blue gottems?)
 
 ===MUSIC AND AMBIENCE
 =Music
 We'll think of more
 (I have menu music ideas)
-
-=Shrether ambience
-Shrek quotes, ill make them later
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
@@ -67,10 +63,6 @@ Music will be under da sea and also some spongebob production music, and crazy f
 ===LONG TERM SHRETHER BIOMES
 =Crimson forest
 Make into a swamp biome, sort of an extremely thick swamp
-Music in biome will be "what are you doing in my swamp remix" (pinned)
-
-=Basalt delta
-Make into an onion biome, with various onion types for the varying blocks (sweet, white, vidalia, etc)
 
 ===LONG TERM SHRETHER MOBS
 
