@@ -27,7 +27,7 @@ We'll think of more
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
-
+Retexture a plant of some kind to be invader zim gnome
 retexture gilded blackstone and nether gold ore to have gottems, like the other golden items
 retexture netherite items
 retexture spectral arrow to be silver bullet
