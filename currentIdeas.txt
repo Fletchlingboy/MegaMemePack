@@ -2,6 +2,9 @@
 Death sound will be "cold brew hits" video
 I have more ideas but norm of the north isnt a priority
 
+===SHULKER/GARF SENTRY
+-all colored variations need at least the face copy pasted over, maybe the insignia
+
 ===PANDA/PO
 change panda to po from kung fu panda
 
@@ -53,12 +56,8 @@ More meme food (spuddies from over the hedge, krabby patties?)
 Desert villages will be remade into the town of Dirt from Rango
 
 ===LONG TERM REGULAR SHOW ILLAGERS
-Pillager = Mordecai
-Vindicator = Rigby
 Evoker = Muscle man
 Vex = high five ghost
-Banner would be regular show poster
-Raid horn will be replaced with the regular show intro sound
 IDk we could do the glove or whatever or the eggscelent hat for their weapons or textures we'll see when we get there
 
 ===LONG LONG TERM OCEAN OVERHAUL
@@ -67,19 +66,3 @@ Tropical fish will be retextured after background fish from spongebob
 Ocean ambience will be echoey, distant spongebob memes
 Music will be under da sea and also some spongebob production music, and crazy frog popcorn (pinned)
 
-===========================================================================================================
-
-
-===LONG TERM SHRETHER BIOMES
-=Crimson forest
-Make into a swamp biome, sort of an extremely thick swamp
-
-===LONG TERM SHRETHER MOBS
-
-=Magma cube
-(I dont have sounds yet)
-Texture Magma cube to shragma cube
-
-=Piglin brute
-(I dont have sounds yet)
-Texture piglin brute after Thelonius
