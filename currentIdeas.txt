@@ -11,23 +11,9 @@ change panda to po from kung fu panda
 ===FOX/CARFAX
 change fox to be carfox from carfax
 
-===DOLPHIN/WHANOS
--Sounds
-A retexture with more accurate colors based off of the original meme image
-
 ===ZOMBIE/FORTNITE
 -Sounds
-
-===DROWNED/NINJA
--Sounds
-
-===TURTLE/???
--Oogway?
--Verne?
-
-===GUARDIAN/PLANKTON
--Sounds
--Retexture
+ounds
 
 ===PARTICLES AND EFFECTS
 Rain texture (small blue gottems?)
@@ -42,8 +28,6 @@ Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 Retexture a plant of some kind to be invader zim gnome
 
-Brewing stand - besides making it have a green pole, we need something creative
-
 More meme crops, (mtn dew, dorito plants?)
 
 Sprite Cranberry Bush
@@ -54,15 +38,3 @@ More meme food (spuddies from over the hedge, krabby patties?)
 
 ===LONG TERM RANGO VILLAGE
 Desert villages will be remade into the town of Dirt from Rango
-
-===LONG TERM REGULAR SHOW ILLAGERS
-Evoker = Muscle man
-Vex = high five ghost
-IDk we could do the glove or whatever or the eggscelent hat for their weapons or textures we'll see when we get there
-
-===LONG LONG TERM OCEAN OVERHAUL
-Fish will be retextured after will smith fish, mr. tmms, that stupid fish from little mermaid, distorted nemo, etc.
-Tropical fish will be retextured after background fish from spongebob
-Ocean ambience will be echoey, distant spongebob memes
-Music will be under da sea and also some spongebob production music, and crazy frog popcorn (pinned)
-
