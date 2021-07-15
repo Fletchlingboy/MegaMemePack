@@ -17,6 +17,10 @@ Sounds
 
 ===DRIPSTONE
 Sounds
+=Dripstone block
+Texture
+=Pointed dripstone
+Item texture
 
 ===GLOWSQUID/SQUILLIAM
 Sounds
