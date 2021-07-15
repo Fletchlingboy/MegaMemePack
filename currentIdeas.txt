@@ -8,12 +8,38 @@ I have more ideas but norm of the north isnt a priority
 ===PANDA/PO
 change panda to po from kung fu panda
 
+===PARROT/POTTY THE PARROT
+Sounds
+texture
+
 ===FOX/CARFAX
 change fox to be carfox from carfax
 
+===SPIDER/JON SPIDER
+Texture
+Sounds
+
+===WOLF/GIR
+Sounds
+
+===SUSPICOUS STEW/SUS STEW
+needs texture
+
+===DRIPSTONE
+Sounds
+=Dripstone block
+Texture
+=Pointed dripstone
+Item texture
+
+===COPPER
+sounds need to be 'its made from copper' -megamind (we need more megamind content as it is)
+
+===WANDERING TRADER/TRADE OFFER
+ui update?
+
 ===ZOMBIE/FORTNITE
 -Sounds
-ounds
 
 ===PARTICLES AND EFFECTS
 Rain texture (small blue gottems?)
@@ -21,7 +47,6 @@ Rain texture (small blue gottems?)
 ===MUSIC AND AMBIENCE
 =Music
 We'll think of more
-(I have menu music ideas)
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
