@@ -11,9 +11,18 @@ change panda to po from kung fu panda
 ===FOX/CARFAX
 change fox to be carfox from carfax
 
+===SPIDER/JON SPIDER
+Texture
+Sounds
+
+===DRIPSTONE
+Sounds
+
+===GLOWSQUID/SQUILLIAM
+Sounds
+
 ===ZOMBIE/FORTNITE
 -Sounds
-ounds
 
 ===PARTICLES AND EFFECTS
 Rain texture (small blue gottems?)
