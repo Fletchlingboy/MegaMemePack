@@ -8,6 +8,10 @@ I have more ideas but norm of the north isnt a priority
 ===PANDA/PO
 change panda to po from kung fu panda
 
+===PARROT/POTTY THE PARROT
+Sounds
+texture
+
 ===FOX/CARFAX
 change fox to be carfox from carfax
 
