@@ -15,6 +15,9 @@ change fox to be carfox from carfax
 Texture
 Sounds
 
+===WOLF/GIR
+Sounds
+
 ===DRIPSTONE
 Sounds
 =Dripstone block
@@ -22,8 +25,8 @@ Texture
 =Pointed dripstone
 Item texture
 
-===GLOWSQUID/SQUILLIAM
-Sounds
+===WANDERING TRADER/TRADE OFFER
+ui update?
 
 ===ZOMBIE/FORTNITE
 -Sounds
