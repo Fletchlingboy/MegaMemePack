@@ -15,47 +15,27 @@ texture
 ===FOX/CARFAX
 change fox to be carfox from carfax
 
-===SPIDER/JON SPIDER
-Texture
-Sounds
-
-===WOLF/GIR
-Sounds
-
-===SUSPICOUS STEW/SUS STEW
-needs texture
-
-===DRIPSTONE
-Sounds
-=Dripstone block
-Texture
-=Pointed dripstone
-Item texture
-
 ===COPPER
 sounds need to be 'its made from copper' -megamind (we need more megamind content as it is)
 
 ===WANDERING TRADER/TRADE OFFER
 ui update?
 
-===ZOMBIE/FORTNITE
--Sounds
-
 ===PARTICLES AND EFFECTS
 Rain texture (small blue gottems?)
 
 ===MUSIC AND AMBIENCE
-=Music
-We'll think of more
+all in game music except classics like wet hands will be zim
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 Retexture a plant of some kind to be invader zim gnome
 
-More meme crops, (mtn dew, dorito plants?)
+===More meme crops
+(mtn dew, dorito plants?)
 
-Sprite Cranberry Bush
+===Sprite Cranberry Bush
 
 More meme food (spuddies from over the hedge, krabby patties?)
 
