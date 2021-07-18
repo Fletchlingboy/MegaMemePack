@@ -6,7 +6,9 @@ I have more ideas but norm of the north isnt a priority
 -all colored variations need at least the face copy pasted over, maybe the insignia
 
 ===PANDA/PO
-change panda to po from kung fu panda
+texture edit on red panda, face expressions for all types
+spawn egg rename
+sounds
 
 ===PARROT/POTTY THE PARROT
 Sounds
@@ -23,9 +25,6 @@ ui update?
 
 ===PARTICLES AND EFFECTS
 Rain texture (small blue gottems?)
-
-===MUSIC AND AMBIENCE
-all in game music except classics like wet hands will be zim
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
