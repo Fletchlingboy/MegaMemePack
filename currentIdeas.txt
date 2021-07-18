@@ -6,7 +6,9 @@ I have more ideas but norm of the north isnt a priority
 -all colored variations need at least the face copy pasted over, maybe the insignia
 
 ===PANDA/PO
-change panda to po from kung fu panda
+texture edit on red panda, face expressions for all types
+spawn egg rename
+sounds
 
 ===PARROT/POTTY THE PARROT
 Sounds
@@ -15,47 +17,24 @@ texture
 ===FOX/CARFAX
 change fox to be carfox from carfax
 
-===SPIDER/JON SPIDER
-Texture
-Sounds
-
-===WOLF/GIR
-Sounds
-
-===SUSPICOUS STEW/SUS STEW
-needs texture
-
-===DRIPSTONE
-Sounds
-=Dripstone block
-Texture
-=Pointed dripstone
-Item texture
-
 ===COPPER
 sounds need to be 'its made from copper' -megamind (we need more megamind content as it is)
 
 ===WANDERING TRADER/TRADE OFFER
 ui update?
 
-===ZOMBIE/FORTNITE
--Sounds
-
 ===PARTICLES AND EFFECTS
 Rain texture (small blue gottems?)
-
-===MUSIC AND AMBIENCE
-=Music
-We'll think of more
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 Retexture a plant of some kind to be invader zim gnome
 
-More meme crops, (mtn dew, dorito plants?)
+===More meme crops
+(mtn dew, dorito plants?)
 
-Sprite Cranberry Bush
+===Sprite Cranberry Bush
 
 More meme food (spuddies from over the hedge, krabby patties?)
 
