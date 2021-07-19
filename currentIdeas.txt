@@ -5,11 +5,12 @@ I have more ideas but norm of the north isnt a priority
 ===COPPER
 sounds need to be 'its made from copper' -megamind (we need more megamind content as it is)
 
+==STRAY/SKELETOR
+sounds
+texture
+
 ===WANDERING TRADER/TRADE OFFER
 ui update?
-
-===PARTICLES AND EFFECTS
-Rain texture (small blue gottems?)
 
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
