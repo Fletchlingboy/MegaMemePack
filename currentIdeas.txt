@@ -1,8 +1,4 @@
-===POLAR BEAR/NORM OF THE NORTH
-Death sound will be "cold brew hits" video
-I have more ideas but norm of the north isnt a priority
-
-==STRAY/SKELETOR
+===STRAY/SKELETOR
 sounds
 texture
 
