@@ -8,9 +8,6 @@ sounds need to be 'its made from copper' -megamind (we need more megamind conten
 ===WANDERING TRADER/TRADE OFFER
 ui update?
 
-===PARTICLES AND EFFECTS
-Rain texture (small blue gottems?)
-
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
