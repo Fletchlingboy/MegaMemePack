@@ -1,11 +1,4 @@
-===POLAR BEAR/NORM OF THE NORTH
-Death sound will be "cold brew hits" video
-I have more ideas but norm of the north isnt a priority
-
-===COPPER
-sounds need to be 'its made from copper' -megamind (we need more megamind content as it is)
-
-==STRAY/SKELETOR
+===STRAY/SKELETOR
 sounds
 texture
 
@@ -19,8 +12,6 @@ Retexture a plant of some kind to be invader zim gnome
 
 ===More meme crops
 (mtn dew, dorito plants?)
-
-===Sprite Cranberry Bush
 
 More meme food (spuddies from over the hedge, krabby patties?)
 
