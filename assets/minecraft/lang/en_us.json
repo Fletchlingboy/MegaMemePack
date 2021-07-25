@@ -3961,6 +3961,8 @@
   "advancements.story.upgrade_tools.description": "Construct a better pickaxe",
   "advancements.adventure.spyglass_at_parrot.title": "What a rip...",
   "advancements.adventure.spyglass_at_parrot.description": "Look at potty through a spyglass",
+  "advancements.adventure.spyglass_at_dragon.title": "He's always watching...",
+  "advancements.adventure.spyglass_at_dragon.description": "Look at figure 14.19 through a spyglass",
   "team.visibility.always": "Always",
   "team.visibility.never": "Never",
   "team.visibility.hideForOtherTeams": "Hide for other teams",
