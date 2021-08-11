@@ -2,21 +2,15 @@
 sounds
 texture
 
-===WANDERING TRADER/TRADE OFFER
-ui update?
-
 ===ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
-Retexture a plant of some kind to be invader zim gnome
 
-===SWEET BERRIES/SPRITE CRANBERRIES
--Sounds
 
 ===More meme crops
-(mtn dew, dorito plants?)
+(mtn dew?)
 
-More meme food (spuddies from over the hedge, krabby patties?)
+More meme food (spuddies from over the hedge?)
 
 ==================================[LONG TERM] these will come last
 
