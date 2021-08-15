@@ -6,8 +6,10 @@ texture
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 
+Bone blocks to be thomas "ancient steel of the tank engine"
+
 ===More meme crops
-(mtn dew, dorito plants?)
+(mtn dew?)
 
 More meme food (spuddies from over the hedge, krabby patties?)
 
