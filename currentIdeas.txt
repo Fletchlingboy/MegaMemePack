@@ -2,15 +2,9 @@
 sounds
 texture
 
-===AXOLOTL/CLARK & STANLEY
-sounds
-texture
-
 ====ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
-
-replace new caves and cliffs music
 
 ===More meme crops
 (mtn dew?)
