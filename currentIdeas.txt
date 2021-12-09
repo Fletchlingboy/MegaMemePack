@@ -6,8 +6,6 @@ texture
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
 
-glow lichen
-
 ===More meme crops
 (mtn dew?)
 
