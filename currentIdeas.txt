@@ -1,7 +1,3 @@
-===STRAY/SKELETOR
-sounds
-texture
-
 ====ITEMS AND BLOCKS
 Retexture cactuses to be the rango cactus png i sent
 -including potted ones
@@ -9,15 +5,13 @@ Retexture cactuses to be the rango cactus png i sent
 ===More meme crops
 (mtn dew?)
 
-CHUNGUS RABBITS
-meat can be big chungus the game
-cooked can be something else entirely
-
-rabbit stew-ditto
-
-rotten flesh - fortnite juice?
-
-More meme food (spuddies from over the hedge, krabby patties?)
+breadstone - redstone (its braedan)
+redstone ore - breads face
+redstone dust - 
+redstone torch -
+redstone block -
+redstone repeater - 
+redstone comparator - 
 
 ==================================[LONG TERM] these will come last
 
