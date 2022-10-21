@@ -11,9 +11,20 @@
 }
     ],
     "subtitle": "subtitles.entity.creeper.primed"
+  },
+
+"music_disc.strad": {
+    "sounds": [
+      {
+        "name": "records/strad",
+        "stream": true
+      },
+      {
+        "name": "records/secret",
+        "stream": true
+      }
+    ]
   }
-
-
 
 
 }
