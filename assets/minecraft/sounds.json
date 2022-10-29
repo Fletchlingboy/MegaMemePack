@@ -25,6 +25,49 @@
         "stream": true
       }
     ]
+  },
+"entity.ender_dragon.flap": {
+    "replace":true,
+    "sounds": [
+      "mob/enderdragon/wings1",
+      "mob/enderdragon/wings2",
+      "mob/enderdragon/wings3",
+      "mob/enderdragon/wings4",
+      "mob/enderdragon/wings5",
+      "mob/enderdragon/wings6",
+      "random/silent",
+      "random/silent"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.flap"
+  },
+
+  "entity.ender_dragon.ambient": {
+"replace":true,
+    "sounds": [
+      "mob/enderdragon/growl1",
+      "mob/enderdragon/growl2",
+      "mob/enderdragon/growl3",
+      "mob/enderdragon/growl4",
+      "random/silent",
+      "random/silent",
+      "random/silent",
+      "random/silent"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.ambient"
+  },
+"entity.ender_dragon.growl": {
+"replace":true,
+    "sounds": [
+      "mob/enderdragon/growl1",
+      "mob/enderdragon/growl2",
+      "mob/enderdragon/growl3",
+      "mob/enderdragon/growl4",
+      "random/silent",
+      "random/silent",
+      "random/silent",
+      "random/silent"
+    ],
+    "subtitle": "subtitles.entity.ender_dragon.growl"
   }
 
 
