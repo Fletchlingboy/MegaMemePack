@@ -26,6 +26,16 @@
       }
     ]
   },
+"entity.ender_pearl.throw": {
+    "replace":true,
+    "sounds": [
+{
+      "name":"item/ender_pearl/throw",
+      "pitch": 2.4
+}
+    ],
+    "subtitle": "subtitles.entity.ender_pearl.throw"
+  },
 "entity.ender_dragon.flap": {
     "replace":true,
     "sounds": [
